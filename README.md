@@ -1,2 +1,3 @@
 # open-cv-python-project
 It is a python project which analysis things in a image video and a webcam and predicts the names of the things in the real world this project uses mobilenet ssd and labels to analyse things in the project...
+![GIT1](https://user-images.githubusercontent.com/89345235/168458383-0ac8228d-cda3-4ce8-8761-cd0af10c2ab7.PNG)
